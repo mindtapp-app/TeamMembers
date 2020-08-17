@@ -1,8 +1,5 @@
+# Ryan Giron
+Position: 
 
-#Ryan Giron
-Position: Imaginary Position
-
-Bio:
-John Doe is currently the mascott of mindtapp. He loves to goof around and learn new things.
-Last week, he was able to balance three donuts on his nose while doing a handstand.
+Bio: Ryan is in his last year at UCR as a Computer Engineering undergraduate. He has a passion for Technology and learning which is why he became a Software Developer and is always looking for new ways to use his talents and skills. In his free time he enjoys playing video games such as Valorant, The Binding of Issac, Fall Guys, and Call of Duty
 
