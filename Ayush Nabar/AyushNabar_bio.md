@@ -1,5 +1,5 @@
 # Ayush Nabar
-Position:
+Position: Frontend Developer
 
 Bio:
 Ayush Nabar is one of the developers of MindTApp. Currently, he is a second-year student studying 
