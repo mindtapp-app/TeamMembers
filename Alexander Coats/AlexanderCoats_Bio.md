@@ -1,5 +1,5 @@
 # Alexander Coats
-Position: Game Developer
+Position: Frontend Developer
 
 Bio:
 Alex Coats is a game developer working on brain games in MindTApp. A native Californian, 
